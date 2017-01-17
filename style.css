@@ -1,0 +1,28 @@
+body {
+  font-family:'Khand', sans-serif;}
+
+
+.jumbotron {background-image: url(http://millionmedia.com/wp-content/uploads/2014/07/opera-background-light-blue.jpg);
+}
+
+.navbar-brand{font-family: 'Audiowide', cursive;
+    font-size: 40px;
+    color: black;
+    padding-top: 10px;
+  }
+
+  .navbar {font-family: 'Audiowide', cursive}
+
+#summary {font-family: 'Khand', sans-serif;
+    font-size: 40px;
+    color: black;
+    padding-top: 10px;
+  padding-left: 20px}
+
+.imgcircle{border-radius: 50%; width: 230px; height:230px;}
+
+.thumbnail{width: 200px; height:200px;}
+.fa-home {width: 20px}
+
+.fooflefont{font-family: 'Audiowide', cursive;
+}
